@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://superfeiyu.github.io.git/sitemap.xml
